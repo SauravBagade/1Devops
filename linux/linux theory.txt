@@ -6,5 +6,5 @@ cat /etc/passwd =show all details of users and all
 group saurav = view to which group user 
 getent group dev = dev group all user view
 
-
+hhudhuhu
 
