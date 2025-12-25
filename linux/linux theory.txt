@@ -1,0 +1,10 @@
+adduser saurav = create user using details and password
+groupadd dev = create a group
+usermod -aG dev saurav = dev group add saurav user
+id saurav = showing details of user
+cat /etc/passwd =show all details of users and all
+group saurav = view to which group user 
+getent group dev = dev group all user view
+
+
+
